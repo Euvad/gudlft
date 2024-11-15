@@ -79,6 +79,6 @@ Visit [http://localhost:8089](http://localhost:8089) to configure test options. 
 
 Screenshots of the latest test reports are available in the `reports` folder:
 
-- [Pytest Report](reports/pytest_all_tests_passed.png) (all tests passed)
-- [Coverage Report](reports/coverage_report.png) (100% coverage)
-- [Locust Performance Report](reports/locust_report.png) (15 users, 1 user per second)
+- [Pytest Report](reports/tests_report.png) (all tests passed)
+- [Coverage Report](reports/coverage.PNG) (100% coverage)
+- [Locust Performance Report](reports/locust_report.html) (15 users, 1 user per second)
