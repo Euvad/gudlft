@@ -1,0 +1,10 @@
+bin
+include
+lib
+.Python
+.envrc
+__pycache__
+env/
+.idea/
+notes.txt
+/.pytest_cache/
