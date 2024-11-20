@@ -1,5 +1,5 @@
 
-# Project 11 OCR (Vadim333)
+# Project 11 OCR (Vadim32)
 
 This project is a **reservation platform for strength competitions** organized by the company **Güdlft**.
 
@@ -11,7 +11,7 @@ The goal is to **fix bugs and errors** in the existing project, [Python_Testing]
 
 ### Steps for Windows:
 ```bash
-git clone https://github.com/Vadim333/gudlft.git
+git clone https://github.com/Vadim32/gudlft.git
 
 cd gudlft
 python -m venv env
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ### Steps for MacOS and Linux:
 ```bash
-git clone https://github.com/Vadim333/gudlft.git
+git clone https://github.com/Vadim32/gudlft.git
 
 cd gudlft
 python3 -m venv env
